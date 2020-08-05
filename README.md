@@ -1,6 +1,6 @@
 # week06
 
-## DEMO - https://kaychen1994.github.io/week06/index.html
+## DEMO - https://kaychen1994.github.io/week06/dist/index.html#/
 
 ## Project setup
 ```
