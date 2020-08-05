@@ -1,5 +1,7 @@
 # week06
 
+## DEMO - https://kaychen1994.github.io/week06/index.html
+
 ## Project setup
 ```
 npm install
